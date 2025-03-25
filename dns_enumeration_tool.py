@@ -34,7 +34,7 @@ class DNSEnumerationTool:
         """
         Initialize Yesilho's DJEV DNS Enumeration Tool.
 
-        :param domain: Target domain or URL to enumerate (e.g., voursa.com or https://voursa.com/EN)
+        :param domain: Target domain or URL to enumerate (e.g., exemple.com or https://exemple.com/EN)
         :param output_dir: Directory to save results
         :param dns_server: Custom DNS server (e.g., 8.8.8.8)
         :param debug: Enable debug output for detailed errors
